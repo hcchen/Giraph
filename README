@@ -65,4 +65,3 @@ For the non-secure versions of Hadoop, run the maven commands with the
 additional argument '-Dhadoop=non_secure' to enable the maven profile
  'hadoop_non_secure'.  An example compilation command is
 'mvn -Dhadoop=non_secure compile'.
-
