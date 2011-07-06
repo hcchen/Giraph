@@ -141,13 +141,8 @@
           <artifactId>jms</artifactId>
         </exclusion>
       </exclusions>
-<<<<<<< HEAD
-	</dependency>
-	<dependency>
-=======
     </dependency>
     <dependency>
->>>>>>> Fixed bug on not being able to start ZooKeeper with excluded dependencies.
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-io</artifactId>
       <version>1.3.2</version>
